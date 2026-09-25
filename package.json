@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-odre",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ODRE Energy Open Data (odre.opendatasoft.com) — OpenDataSoft MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-3dd5684564fcb92095afc2ce84ef484230d82be28234d7b078b1ebe1d1ce22d4",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-26b2d7a791536bba0ca28ec3d55dc42c152eca2208fd57b34895f16a0704412e",
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
