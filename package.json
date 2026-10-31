@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-odre",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ODRE Energy Open Data (odre.opendatasoft.com) — OpenDataSoft MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-odre",
     "gatewaySlug": "data-odre",
-    "sourceHash": "v1-16fe0eb2228727575d95b677bcc167dbe0db81e8031670103223e3b755627d63",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-52569cec8464dfd1025a6c253fe415d2cd86d9ea4976d4883bf609a21dc0903f",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
